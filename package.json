@@ -1,0 +1,14 @@
+{
+  "name": "chakram-mocha-demo",
+  "version": "1.0.0",
+  "description": "Simple example to use Chakram for API testing",
+  "repository": "https://github.com/praveenprasannan/chakram-mocha-demo.git",
+  "license": "MIT",
+  "devDependencies": {
+    "chakram": "^1.5.0",
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}
